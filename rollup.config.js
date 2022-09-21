@@ -8,7 +8,6 @@ const external = [
   'express',
   'webpack',
   'node-fetch',
-  'next/dist/telemetry/trace/shared',
 ];
 
 const plugins = [
